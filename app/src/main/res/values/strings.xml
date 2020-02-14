@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="notes">Notes</string>
+    <string name="error_msg_internet">We have trouble getting to the Network\nPlease try again later</string>
+    <string name="error_msg_pw">Wrong username or password</string>
+    <string name="error_msg_other">Something went wrong\nPlease try again later</string>
+    <string name="error_title_and_text_empty">Title and text cannot be empty</string>
+</resources>
